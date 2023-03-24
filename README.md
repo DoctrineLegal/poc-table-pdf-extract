@@ -1,6 +1,6 @@
 <p align="center"><img width=300 src="https://user-images.githubusercontent.com/57960922/192136956-f3c9057b-21cf-4037-8bbd-448f17e79c76.png"></p>
 
-# Colibrie
+# POC Table pdf extraction
 
  [![image](https://img.shields.io/pypi/v/colibrie.svg)](https://pypi.org/project/colibrie/) [![image](https://img.shields.io/pypi/l/colibrie.svg)](https://pypi.org/project/colibrie/)
 
@@ -98,7 +98,7 @@ Some number to compare [Camelot](https://github.com/camelot-dev/camelot) (a popu
 ```
 pip install poetry
 
-git clone https://github.com/abitoun-42/colibrie.git
+git clone https://github.com/DoctrineLegal/poc-table-pdf-extract
 
 cd colibrie
 
